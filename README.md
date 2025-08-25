@@ -1,4 +1,4 @@
-# GC25 Project Documentation
+# Project Documentation
 
 ## Overview
 
